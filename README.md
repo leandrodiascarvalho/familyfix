@@ -1,6 +1,6 @@
-<h1>familyfix<h1>
+<h1>familyflix<h1>
 <p>Projeto baseado: no curso "Criando um clone da Netflix" e Na "Maratona zero ao código 2º edicão" da Kenzie.<p>
-<p>Nesse projeto foi abordado conceitos d <b> <i> estruturas de  um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox</p></b></i>
+<p>Nesse projeto foi abordado conceitos estruturas de  um <i>layout CSS</i>, <i>técnicas de CSS3 com containers e variáveis</i>, como posicionar os <i>elementos com Flexbox</i>
 
 
 <h2>Tecnologias<h2>
@@ -9,3 +9,4 @@
   <b><li>CSS</li></b>
   </ul>
 
+  <a href = "https://leandrodiascarvalho.github.io/familyfix/">Familyflix</a>
